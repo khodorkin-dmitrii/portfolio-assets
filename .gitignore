@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# JetBrains IDE
+.idea/
+# Local Codex/project instructions
+AGENTS.md
+references/
