@@ -26,3 +26,6 @@ venv/
 .tmp/
 tmp/
 output/
+
+# Local source assets (never published)
+/rawSrc/

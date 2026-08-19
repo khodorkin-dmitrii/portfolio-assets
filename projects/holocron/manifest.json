@@ -1,7 +1,145 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 1,
+  "contentVersion": 2,
   "projectId": "holocron",
-  "entities": []
+  "entities": [
+    {
+      "type": "film",
+      "id": 1,
+      "images": [
+        {
+          "id": "a-new-hope",
+          "label": "A New Hope",
+          "displayOrder": 0,
+          "variants": {
+            "card": {
+              "path": "images/films/1/a-new-hope-card-v1.webp",
+              "width": 480,
+              "height": 720
+            },
+            "full": {
+              "path": "images/films/1/a-new-hope-full-v1.webp",
+              "width": 1024,
+              "height": 1536
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "film",
+      "id": 2,
+      "images": [
+        {
+          "id": "the-empire-strikes-back",
+          "label": "The Empire Strikes Back",
+          "displayOrder": 0,
+          "variants": {
+            "card": {
+              "path": "images/films/2/the-empire-strikes-back-card-v1.webp",
+              "width": 480,
+              "height": 720
+            },
+            "full": {
+              "path": "images/films/2/the-empire-strikes-back-full-v1.webp",
+              "width": 1024,
+              "height": 1536
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "film",
+      "id": 3,
+      "images": [
+        {
+          "id": "return-of-the-jedi",
+          "label": "Return of the Jedi",
+          "displayOrder": 0,
+          "variants": {
+            "card": {
+              "path": "images/films/3/return-of-the-jedi-card-v1.webp",
+              "width": 480,
+              "height": 720
+            },
+            "full": {
+              "path": "images/films/3/return-of-the-jedi-full-v1.webp",
+              "width": 1024,
+              "height": 1536
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "film",
+      "id": 4,
+      "images": [
+        {
+          "id": "the-phantom-menace",
+          "label": "The Phantom Menace",
+          "displayOrder": 0,
+          "variants": {
+            "card": {
+              "path": "images/films/4/the-phantom-menace-card-v1.webp",
+              "width": 480,
+              "height": 720
+            },
+            "full": {
+              "path": "images/films/4/the-phantom-menace-full-v1.webp",
+              "width": 1024,
+              "height": 1536
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "film",
+      "id": 5,
+      "images": [
+        {
+          "id": "attack-of-the-clones",
+          "label": "Attack of the Clones",
+          "displayOrder": 0,
+          "variants": {
+            "card": {
+              "path": "images/films/5/attack-of-the-clones-card-v1.webp",
+              "width": 480,
+              "height": 720
+            },
+            "full": {
+              "path": "images/films/5/attack-of-the-clones-full-v1.webp",
+              "width": 1024,
+              "height": 1536
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "film",
+      "id": 6,
+      "images": [
+        {
+          "id": "revenge-of-the-sith",
+          "label": "Revenge of the Sith",
+          "displayOrder": 0,
+          "variants": {
+            "card": {
+              "path": "images/films/6/revenge-of-the-sith-card-v1.webp",
+              "width": 480,
+              "height": 720
+            },
+            "full": {
+              "path": "images/films/6/revenge-of-the-sith-full-v1.webp",
+              "width": 1024,
+              "height": 1536
+            }
+          }
+        }
+      ]
+    }
+  ]
 }
-
