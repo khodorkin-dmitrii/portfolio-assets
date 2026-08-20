@@ -2,6 +2,8 @@
 
 This repository is public infrastructure for versioned static assets and machine-readable manifests used by portfolio applications. GitHub Pages can publish the committed files directly, without a site generator or build step.
 
+Public site: [khodorkin-dmitrii.github.io/portfolio-assets](https://khodorkin-dmitrii.github.io/portfolio-assets/)
+
 Keeping assets here separates potentially large, independently versioned media from application source code and releases. Each consumer owns an isolated namespace under `projects/<project-id>/`, so one project's manifest and naming decisions do not affect another.
 
 ## Repository layout
