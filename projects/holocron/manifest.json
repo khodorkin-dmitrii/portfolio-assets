@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 2,
+  "contentVersion": 3,
   "projectId": "holocron",
   "entities": [
     {
@@ -8,17 +8,17 @@
       "id": 1,
       "images": [
         {
-          "id": "a-new-hope",
+          "id": "ep4",
           "label": "A New Hope",
           "displayOrder": 0,
           "variants": {
             "card": {
-              "path": "images/films/1/a-new-hope-card-v1.webp",
+              "path": "images/films/1/ep4-card-v1.webp",
               "width": 480,
               "height": 720
             },
             "full": {
-              "path": "images/films/1/a-new-hope-full-v1.webp",
+              "path": "images/films/1/ep4-full-v1.webp",
               "width": 1024,
               "height": 1536
             }
@@ -31,17 +31,17 @@
       "id": 2,
       "images": [
         {
-          "id": "the-empire-strikes-back",
+          "id": "ep5",
           "label": "The Empire Strikes Back",
           "displayOrder": 0,
           "variants": {
             "card": {
-              "path": "images/films/2/the-empire-strikes-back-card-v1.webp",
+              "path": "images/films/2/ep5-card-v1.webp",
               "width": 480,
               "height": 720
             },
             "full": {
-              "path": "images/films/2/the-empire-strikes-back-full-v1.webp",
+              "path": "images/films/2/ep5-full-v1.webp",
               "width": 1024,
               "height": 1536
             }
@@ -54,17 +54,17 @@
       "id": 3,
       "images": [
         {
-          "id": "return-of-the-jedi",
+          "id": "ep6",
           "label": "Return of the Jedi",
           "displayOrder": 0,
           "variants": {
             "card": {
-              "path": "images/films/3/return-of-the-jedi-card-v1.webp",
+              "path": "images/films/3/ep6-card-v1.webp",
               "width": 480,
               "height": 720
             },
             "full": {
-              "path": "images/films/3/return-of-the-jedi-full-v1.webp",
+              "path": "images/films/3/ep6-full-v1.webp",
               "width": 1024,
               "height": 1536
             }
@@ -77,17 +77,17 @@
       "id": 4,
       "images": [
         {
-          "id": "the-phantom-menace",
+          "id": "ep1",
           "label": "The Phantom Menace",
           "displayOrder": 0,
           "variants": {
             "card": {
-              "path": "images/films/4/the-phantom-menace-card-v1.webp",
+              "path": "images/films/4/ep1-card-v1.webp",
               "width": 480,
               "height": 720
             },
             "full": {
-              "path": "images/films/4/the-phantom-menace-full-v1.webp",
+              "path": "images/films/4/ep1-full-v1.webp",
               "width": 1024,
               "height": 1536
             }
@@ -100,17 +100,17 @@
       "id": 5,
       "images": [
         {
-          "id": "attack-of-the-clones",
+          "id": "ep2",
           "label": "Attack of the Clones",
           "displayOrder": 0,
           "variants": {
             "card": {
-              "path": "images/films/5/attack-of-the-clones-card-v1.webp",
+              "path": "images/films/5/ep2-card-v1.webp",
               "width": 480,
               "height": 720
             },
             "full": {
-              "path": "images/films/5/attack-of-the-clones-full-v1.webp",
+              "path": "images/films/5/ep2-full-v1.webp",
               "width": 1024,
               "height": 1536
             }
@@ -123,17 +123,17 @@
       "id": 6,
       "images": [
         {
-          "id": "revenge-of-the-sith",
+          "id": "ep3",
           "label": "Revenge of the Sith",
           "displayOrder": 0,
           "variants": {
             "card": {
-              "path": "images/films/6/revenge-of-the-sith-card-v1.webp",
+              "path": "images/films/6/ep3-card-v1.webp",
               "width": 480,
               "height": 720
             },
             "full": {
-              "path": "images/films/6/revenge-of-the-sith-full-v1.webp",
+              "path": "images/films/6/ep3-full-v1.webp",
               "width": 1024,
               "height": 1536
             }
